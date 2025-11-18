@@ -17,13 +17,13 @@
  */
 struct Show {
 private:
-    // TODO: Add the private data members here per Part 2b.
+    // Add the private data members here per Part 2b.
     std::string title; //movie title
     std::string venue; //venue uhh
     int showTime; //showtime 24hour
 
 public:
-    // TODO: Add the *declarations* for the 6 public methods here (Part 2b).
+    // Add the *declarations* for the 6 public methods here (Part 2b).
     //
     // --- Accessors (Getters) ---
     //return value of private members
